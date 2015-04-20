@@ -16,6 +16,6 @@ vv:
 clean:
 	rm -rf target*
 	rm -rf project/target*
-	rm -f *.cpp *.v *.h *.o
+	rm -f *.cpp *.h *.o
 
 .PHONY: all c cc v vv clean
